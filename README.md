@@ -53,6 +53,6 @@ Puedes realizar pruebas en esta API utilizando [Postman](https://www.postman.com
 
 La aplicación está funcionando en http://localhost:3000
 
-## No olvides dar las gracias
+## Agradecimientos
 
 Hecho con ❤️ por Matias Ignacio - https://github.com/Matignaciom
